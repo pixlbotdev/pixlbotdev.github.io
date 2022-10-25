@@ -130,6 +130,10 @@ body {
     h2 {
       line-height: 5px;
     }
+      
+    h2 img {
+        width: 300px;
+    }
   }
   
   ul {
