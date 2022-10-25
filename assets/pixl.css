@@ -116,7 +116,7 @@ body {
     background-color: #6383ff;
   }
   
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 720px) {
     .column {
       width: 100%;
       display: block;
